@@ -1,2 +1,0 @@
-# rpggame
-Console RPG game
